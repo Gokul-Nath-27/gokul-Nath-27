@@ -1,6 +1,7 @@
 ## Hello It's Gokul Here <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="height:2rem;width:2.5rem;"></img>
 I'm in a journey of exploring the tech world! Building a network is one of my trait in this fun and upskilling journey, if liked to accompany, join with me to unleash the tech stack!
-<p dir="auto"><a href="#"><img src="https://github.com/daweedkob/daweedkob/raw/main/contributions.svg" style="max-width: 100%;"></a></p>	
+<p dir="auto"><a href="#"><img src="https://github.com/Gokul-Nath-27/gokul-Nath-27/blob/output/github-contribution-grid-snake.gif" style="max-width: 100%;"></a></p>	
+
 <p align="center" dir="auto"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Gokul-Nath-27/count.svg" style="max-width: 100%;">
